@@ -2,7 +2,7 @@
 
 1. Скачать проект с github 
 > git clone https://github.com/kizirgaleevmr/Tasks.git
-2. Инизиализировать проект
+2. Инициализировать проект
 > git init
 3. Запустить локальный сервер
 > npm run dev
