@@ -43,4 +43,5 @@ dropdown.addEventListener("change", (event) => {
     render();
 });
 
-
+// Отрисовываем даблицу
+render();
